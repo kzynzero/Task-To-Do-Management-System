@@ -1,6 +1,6 @@
 -- Daily Planner v2 Database
-CREATE DATABASE IF NOT EXISTS task-to-do-management-system;
-USE task-to-do-management-system;
+CREATE DATABASE IF NOT EXISTS task_to_do_management_system;
+USE task_to_do_management_system;
 
 CREATE TABLE IF NOT EXISTS todos (
     id INT AUTO_INCREMENT PRIMARY KEY,
