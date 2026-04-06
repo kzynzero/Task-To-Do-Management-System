@@ -31,7 +31,7 @@ body {
 }
 
 /* ═════════════
-   SPLASH PAGE
+   INDEX/SPLASH PAGE
 ════════════════ */
 .splash-wrapper {
     min-height: 100vh;
@@ -76,9 +76,9 @@ body {
 .btn-start:hover  { transform: translateY(-2px); box-shadow: 0 8px 0 var(--green-dark); color: var(--green-dark); }
 .btn-start:active { transform: translateY(3px);  box-shadow: 0 2px 0 var(--green-dark); }
 
-/* ══════════════════════════════════════════
+/* ════════════════
    SHARED APP LAYOUT
-══════════════════════════════════════════ */
+═══════════════════*/
 .app-wrapper {
     max-width: 900px;
     margin: 0 auto;
